@@ -1,0 +1,29 @@
+body{
+    background-image:url('bg1.jpg');
+    text-align: center;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-bottom: 300px;
+    background-size: cover;
+    
+    
+    
+}
+h1{
+    color:palevioletred;
+}
+input[type=text]:hover{
+    background-color: bisque;
+    transform: scale(1.5,1.5);
+}
+button:hover{
+    transform: scale(2,2);
+    background-color: skyblue;
+}
+label{
+    color: aqua;
+}
+input{
+    font-size: x-large;
+}
+
